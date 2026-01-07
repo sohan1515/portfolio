@@ -2,7 +2,6 @@
 {
   "name": "front_end",
   "private": true,
-  "homepage": "https://sohan1515.github.io/portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
